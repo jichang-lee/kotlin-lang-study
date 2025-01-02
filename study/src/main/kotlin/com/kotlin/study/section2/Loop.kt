@@ -1,8 +1,5 @@
 package com.kotlin.study.section2
 
-fun main() {
-
-}
 
 fun numberLoop() {
     val numbers = listOf(1L,2L,3L) // 컬렉션 만드는 방법
