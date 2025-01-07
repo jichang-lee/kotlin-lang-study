@@ -1,5 +1,9 @@
 package com.kotlin.study.section4.collection
 
+/**
+ * java 와 kotlin 코드를 섞어서 컬렉션 사용할 떄 주의
+ * java 에서 kotlin 컬렉션을 가져와서 불변 컬렉션을 수정하거나, null을 넣을 수 있다.
+ */
 fun main() {
     val array = arrayOf(100,200)    //가변
 
